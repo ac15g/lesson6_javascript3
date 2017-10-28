@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 29th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Alita Clark)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We had to create a photo gallery by populating it with photos and making sure all the navigational buttons worked.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ac15g.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The DOM is a helpful way to navitage through code and this navigation leads to many possibilities.)
+2. (You don't always have to re-do statements for code that is similar idental to code you've already created. You can clone it using cloneNode.)
+3. (BOM stands for Browser Object Model and DOM stands for Document Object Model. Both help with navigation and making webpages more dynamic without having to refresh the page.)
